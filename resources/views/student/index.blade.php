@@ -48,8 +48,12 @@
                                 <tbody>
                                  {{-- @foreach($student) --}}
                                     <tr>
-                                        <td>Matthew Bartolomeo</td>
-                                        <td>matthewbartolomeo@sample.com</td>
+                                        <td>1</td>
+                                        <td>Rosswell</td>
+                                        <td>Romero</td>
+                                        <td>Balderama</td>
+                                        <td>23</td>
+                                        <td>Masantol Pampanga</td>
                                     </tr>
                                 {{-- @endforeach --}}
                                 </tbody>

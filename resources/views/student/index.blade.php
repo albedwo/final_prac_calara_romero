@@ -26,8 +26,25 @@
                         <div class="card-body p-0">
 
                             <table class="table">
-                                <thead>
-                                </thead>
+                                
+                                <th>
+                                    <td><b>ID</b></td>
+                                </th>
+                                <th>
+                                    <td><b>First Name</b></td>
+                                </th>
+                                <th>
+                                    <td><b>Last Name</b></td>
+                                </th>
+                                <th>
+                                    <td><b>Middle Name</b></td>
+                                </th>
+                                <th>
+                                    <td><b>Age</b></td>
+                                </th>
+                                <th>
+                                    <td><b>Address</b></td>
+                                </th>
                                 <tbody>
                                  {{-- @foreach($student) --}}
                                     <tr>
